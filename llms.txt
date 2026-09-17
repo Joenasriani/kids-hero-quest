@@ -1,0 +1,12 @@
+# Hero Mission: The Healthy Choice
+
+Canonical play URL: https://joenasriani.github.io/kids-hero-quest/
+Repository: https://github.com/Joenasriani/kids-hero-quest
+
+Hero Mission: The Healthy Choice is a randomized 10-question health-and-safety quiz game developed as part of a multi-game interactive children’s edutainment activation in the UAE.
+
+Each run samples 10 questions from a 17-question bank. Every question presents two choices. Correct choices increment the score; incorrect choices store the question’s associated advice for the final report.
+
+Core interaction: question → two choices → score update → next question → score out of 10 → final report.
+
+The repository does not contain a validation study establishing the score as a clinical, educational, behavioral, or health assessment.
